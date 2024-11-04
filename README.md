@@ -1,7 +1,7 @@
 # React Test
 
-Ayush Anand
-2022BCA009
+- **Name**: Ayush Anand
+- **RollNo**: 2022BCA009
 
 ## Credential
 
